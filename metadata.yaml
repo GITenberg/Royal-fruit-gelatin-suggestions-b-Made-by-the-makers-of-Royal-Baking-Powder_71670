@@ -1,0 +1,31 @@
+_repo: Royal-fruit-gelatin-suggestions-b-Made-by-the-makers-of-Royal-Baking-Powder_71670
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-09-17'
+identifiers:
+  gutenberg: '71670'
+language: en
+pgterms:marc905: 20210719193638anonymous
+pgterms:marc906: '1926'
+pgterms:marc907: United States
+production_note: Lisa Corcoran, Stephen Hutcheson, Bob Taylor and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bRoyal Baking Powder Co., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Royal fruit gelatin suggestions : $b Made by the makers of Royal Baking Powder'
+url: http://www.gutenberg.org/ebooks/71670
